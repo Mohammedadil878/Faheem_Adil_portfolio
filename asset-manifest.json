@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Faheem_Adil_portfolio/static/css/main.c0b5e70f.css",
+    "main.js": "/Faheem_Adil_portfolio/static/js/main.e86bd725.js",
+    "static/js/488.2d3131de.chunk.js": "/Faheem_Adil_portfolio/static/js/488.2d3131de.chunk.js",
+    "static/media/bg-img5.png": "/Faheem_Adil_portfolio/static/media/bg-img5.208c114b255949bc9159.png",
+    "static/media/Portfolio.gif": "/Faheem_Adil_portfolio/static/media/Portfolio.7dca444ddeeeaf1b4fb8.gif",
+    "static/media/Database_Mgmt.gif": "/Faheem_Adil_portfolio/static/media/Database_Mgmt.2acebdedb3318af9abc1.gif",
+    "static/media/Mobile_Application.gif": "/Faheem_Adil_portfolio/static/media/Mobile_Application.cd214b2b7a18b710244a.gif",
+    "static/media/File_Structure.gif": "/Faheem_Adil_portfolio/static/media/File_Structure.38d60afc6c5dd597d6a5.gif",
+    "static/media/faheem.jpg": "/Faheem_Adil_portfolio/static/media/faheem.ac2aa6e5dda49cb9cdd9.jpg",
+    "static/media/IOT_Project.gif": "/Faheem_Adil_portfolio/static/media/IOT_Project.1d56ed79a516676f01f1.gif",
+    "static/media/logo.png": "/Faheem_Adil_portfolio/static/media/logo.54a1ecb6f8d030cb7c19.png",
+    "index.html": "/Faheem_Adil_portfolio/index.html",
+    "main.c0b5e70f.css.map": "/Faheem_Adil_portfolio/static/css/main.c0b5e70f.css.map",
+    "main.e86bd725.js.map": "/Faheem_Adil_portfolio/static/js/main.e86bd725.js.map",
+    "488.2d3131de.chunk.js.map": "/Faheem_Adil_portfolio/static/js/488.2d3131de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b5e70f.css",
+    "static/js/main.e86bd725.js"
+  ]
+}
