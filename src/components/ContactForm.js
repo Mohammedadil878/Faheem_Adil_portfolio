@@ -60,8 +60,10 @@ export default function ContactForm() {
                     "6l44NeHwUq_1WtXwI",
                 )
                 .then((response) => {
+                    if (response.status === 200) {
                     toast.success("Message sent Successfully!");
-                    setFormData({ name : "", email : "", message : "" });
+                    setFormData({ name : "", email : "", message : "" }); 
+                    }
                 })
                 .catch((error) => {
                     console.log("FAILED...", error);
